@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to predict the likelihood of a person having diabetes based on various health indicators and demographic information. Machine learning techniques are employed to analyze a dataset containing relevant features and corresponding diabetes outcomes.
+This project aims to predict the likelihood of a person having diabetes based on various health indicators. Machine learning techniques are employed to analyze a dataset containing relevant features and corresponding diabetes outcomes.
 
 ## Dataset
 
