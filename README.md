@@ -46,12 +46,13 @@ The project follows these main steps:
 
 ### Visualizations
 ![Accuracy Test](images/download.png)
+
 *Figure 1: Accuracy Score.*
 
 ## Development
 
 1. **Installation**: Clone the repository and install necessary dependencies using `pip install -r requirements.txt`.
-2. **Data Preparation**: Download the dataset and place it in the designated directory (`data/`).
+2. **Data Preparation**: Download the dataset and place it in the designated directory.
 3. **Execution**: Run the Jupyter Notebook to execute the analysis and generate predictions.
 4. **Interpretation**: Review the generated outputs, visualizations, and model performance metrics to interpret the results.
 
